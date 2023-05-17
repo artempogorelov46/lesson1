@@ -1,0 +1,16 @@
+C:\Users\Студент\source\repos\ConsoleApp24\bin\Debug\net5.0\ConsoleApp24.exe
+C:\Users\Студент\source\repos\ConsoleApp24\bin\Debug\net5.0\ConsoleApp24.deps.json
+C:\Users\Студент\source\repos\ConsoleApp24\bin\Debug\net5.0\ConsoleApp24.runtimeconfig.json
+C:\Users\Студент\source\repos\ConsoleApp24\bin\Debug\net5.0\ConsoleApp24.runtimeconfig.dev.json
+C:\Users\Студент\source\repos\ConsoleApp24\bin\Debug\net5.0\ConsoleApp24.dll
+C:\Users\Студент\source\repos\ConsoleApp24\bin\Debug\net5.0\ref\ConsoleApp24.dll
+C:\Users\Студент\source\repos\ConsoleApp24\bin\Debug\net5.0\ConsoleApp24.pdb
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.AssemblyInfoInputs.cache
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.AssemblyInfo.cs
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.dll
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ref\ConsoleApp24.dll
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.pdb
+C:\Users\Студент\source\repos\ConsoleApp24\obj\Debug\net5.0\ConsoleApp24.genruntimeconfig.cache
